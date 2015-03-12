@@ -1,12 +1,4 @@
-<!-- 	<!-- Banner unit for landing page -->
-	<div class="banner-unit">
-		<div id="banner_img" position="absolute;left=0px;top=0px">
-			<img src="http://skystarstudio.com/wp-content/uploads/2015/03/bigpreview_Coding.jpg">
-		</div>
-	</div>
- -->
-
- 
+<?php get_header(); ?>
 
       <!-- Main hero unit for a primary marketing message or call to action -->
       <div class="hero-unit">
@@ -33,3 +25,5 @@
           <p><a class="btn" href="#">View details &raquo;</a></p>
         </div>
       </div>
+
+<?php get_footer(); ?>
