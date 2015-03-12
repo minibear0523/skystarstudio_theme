@@ -1,13 +1,21 @@
 <!DOCTYPE <html>
-<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
-<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
-<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="lt-LT"> <!--<![endif]-->
-<head>
-	<meta charset="utf-8">
-	<title></title>
-</head>
-<body>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>SkyStar Studio</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta name="description" content="SkyStar Studio Development Team Website">
+		<meta name="author" content="SkyStar Studio">
 
-</body>
-</html>
+		<!-- Le styles -->
+		<link rel="stylesheet" type="text/css" href="../assets/css/bootstrap.css">
+		<style type="text/css">
+			body {
+				padding-top: 60px;
+				padding-bottom: 40px;
+			}
+		</style>
+		<link rel="stylesheet" type="text/css" href="../assets/css/bootstrap-responsive.css">
+	</head>
+<body>
+	<div class="container">
